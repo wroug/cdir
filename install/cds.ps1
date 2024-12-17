@@ -1,5 +1,4 @@
-﻿
-    $clear = $false
+﻿    $clear = $false
 
     function cdir-help {
         echo "Available commands:"
